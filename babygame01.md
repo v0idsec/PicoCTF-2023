@@ -30,6 +30,3 @@ The next line checks whether a character variable `local_aa4` is not equal to th
 ```
 picoCTF{gamer_m0d3_enabled_0a880baf}
 ```
-
-## Conclusion
-Babygame01 on PicoCTF 2023 Challenges was a fun and challenging CTF challenge that required some basic knowledge of game mechanics and code inspection to solve.
