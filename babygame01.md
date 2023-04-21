@@ -23,7 +23,7 @@ The next line checks whether a character variable `local_aa4` is not equal to th
 - `win();` calls a function named `win()`. Presumably, this function performs some actions related to winning the game.
 - `fflush(stdout);` flushes any buffered output to the standard output.
 
-3. Input the Solution: Using this information, I decided to input the solution by typing `w,w,w,w,a,a,a,a,a,a,a,a` to move the character to the top row and then `-4` to move it back. Finally, I pressed `p` to get the flag.
+3. Input the Solution: Using this information, I decided to input the solution by typing `w,w,w,w,a,a,a,a,a,a,a,a` to move the character to the top row and -4 back. Finally, I pressed `p` to get the flag.
 
 4. Got the Flag: After inputting the solution, I was able to get the flag which was:
 
