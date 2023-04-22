@@ -1,6 +1,6 @@
 
 
-# GitHub CTF Writeup: PicoCTF2023 Challenge - Safe Opener 2
+# CTF Writeup: PicoCTF2023 Challenge - Safe Opener 2
 
 ## Challenge Description
 The `Safe Opener 2` challenge requires you to retrieve the lost key to unlock the safe. You have been provided with a file named `SafeOpener.class`, which is supposed to help you retrieve the lost key.
